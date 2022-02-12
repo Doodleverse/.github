@@ -2,7 +2,9 @@
 
 The doodleverse is an opinionated collection of Python packages designed for geoscientific image segmentation.  
 
-![](https://user-images.githubusercontent.com/3596509/153691058-fd1d0af0-03ba-49fe-9dbe-1007f700e006.png)
+<!-- ![](https://user-images.githubusercontent.com/3596509/153691058-fd1d0af0-03ba-49fe-9dbe-1007f700e006.png) -->
+
+![doodleverse3_blackborder](https://user-images.githubusercontent.com/3596509/153729377-e16d0679-ca0d-4d0d-a9f9-90306ba2f871.png)
 
 ## ✍️ Authors
 
