@@ -13,12 +13,20 @@ Package maintainers:
 ## 🌟 Overview
 Currently, there are 3 packages:
 
-* Dash-Doodler
+### Dash-Doodler
+![](https://github.com/Doodleverse/dash_doodler/blob/main/doodler-logo.png)
+
   * For fast, interactive segmentation of imagery
   * For creation of training datasets for training Machine-Learning-based image segmentation models, for example Segmentation Gym
-* Segmentation Gym
+
+### Segmentation Gym
+![zoo](https://user-images.githubusercontent.com/3596509/153691733-1fe98e37-5379-4122-8d02-adbcb0ab0db3.png)
+
   * A neural gym for training image segmentation models based on fully convolutional models based on UNets
-* Segmentation Zoo
+
+### Segmentation Zoo
+![zoo](https://user-images.githubusercontent.com/3596509/153691807-1da4d3ba-377b-40af-9891-c469cc6390c1.png)
+
   * A repository of pre-trained models
 
 Packages are compatible, and share an underlying design and data structures
