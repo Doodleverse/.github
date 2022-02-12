@@ -20,7 +20,8 @@ Currently, there are 3 packages:
   * For creation of training datasets for training Machine-Learning-based image segmentation models, for example Segmentation Gym
 
 ### Segmentation Gym
-![zoo](https://user-images.githubusercontent.com/3596509/153691733-1fe98e37-5379-4122-8d02-adbcb0ab0db3.png)
+<!-- ![zoo](https://user-images.githubusercontent.com/3596509/153691733-1fe98e37-5379-4122-8d02-adbcb0ab0db3.png) -->
+![gym](https://user-images.githubusercontent.com/3596509/153696396-0b3148c5-77e4-48b2-b3ce-fd9038ba21ab.png)
 
   * A neural gym for training image segmentation models based on fully convolutional models based on UNets
 
