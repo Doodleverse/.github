@@ -33,3 +33,8 @@ Currently, there are 3 packages:
   * A repository of pre-trained models
 
 Packages are compatible, and share an underlying design and data structures
+
+## What is opinionated software?
+
+Opinionated Software is a software product that encodes a specific way of approaching a task. The Doodleverse is a well-researched end-to-end data-model pipeline for geoscientific image segmentation that has a lot of practices baked into it. In particular, the Doodleverse implements a specific data-creation and model-training pipeline. See [this link](https://medium.com/@stueccles/the-rise-of-opinionated-software-ca1ba0140d5b#.etoe6fbd2) and [this article](https://peerj.com/preprints/3210/) for more reading around this topic.
+
