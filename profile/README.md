@@ -9,7 +9,7 @@ The doodleverse is an opinionated collection of Python packages designed for geo
 ## ✍️ Authors
 
 Package maintainers:
-* [@dbuscombe-usgs](https://github.com/dbuscombe-usgs) Marda Science / USGS Pacific Coastal and Marine Science Center. Developed originally for the USGS Coastal Marine Geology program, as part of the Florence Supplemental project
+* [@dbuscombe-usgs](https://github.com/dbuscombe-usgs) 
 * [@ebgoldstein](https://github.com/ebgoldstein)
 
 ## 🌟 Overview
