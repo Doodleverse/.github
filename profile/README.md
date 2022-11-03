@@ -1,5 +1,7 @@
 # :space_invader: Welcome to the Doodleverse :space_invader:
 
+[![Gitter chat](https://badges.gitter.im/Doodleverse.png)](https://gitter.im/doodleverse)
+
 The doodleverse is an opinionated collection of Python packages designed for geoscientific image segmentation.  
 
 <!-- ![](https://user-images.githubusercontent.com/3596509/153691058-fd1d0af0-03ba-49fe-9dbe-1007f700e006.png) -->
