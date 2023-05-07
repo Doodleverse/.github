@@ -54,7 +54,7 @@ Packages are compatible, and share an underlying design and data structures
   * Uses codes housed in [s2mengine](https://github.com/Doodleverse/s2m_engine) for conversion of label images (from Gym and Doodler) into geospatial formats, and for visualization of generic label images in geospatial formats in a small webGIS viewer
 
 ### CoastSeg
-![](https://user-images.githubusercontent.com/3596509/189417290-d5c24681-39b7-4b97-afa8-1392cf759b08.gif)
+![](https://user-images.githubusercontent.com/61564689/212394936-263ec9fc-fb82-45b8-bc79-bc57dafdae73.gif)
 
   * A mapping extension for [CoastSat](https://github.com/kvos/CoastSat) using Segmentation Zoo models
   * Provides a graphical browser-based environment for application of the CoastSat workflow for shoreline mapping
@@ -66,6 +66,19 @@ Packages are compatible, and share an underlying design and data structures
   * Coast Train is a dataset made using Doodler, and has been used for training Zoo models that are being implemented in CoastSeg, Seg2Map, and elsewhere
   * The Coast Train repo is [here](https://github.com/CoastTrain/CoastTrain)
   * Consult the Coast Train [website](https://coasttrain.github.io/CoastTrain/) for more info. Data may be accessed from [here](https://coasttrain.github.io/CoastTrain/docs/Version%201:%20March%202022/data)
+
+### Ping-Mapper (v2, forthcoming!)
+![https://github.com/CameronBodine/PINGMapper](https://github.com/CameronBodine/PINGMapper/raw/main/docs/attach/PINGMapper_Logo.png)
+* PING-Mapper is a Python interface for reading, processing, and mapping side scan sonar data from Humminbird® sonar systems
+* V2 (in development) will use Gym models to identify riverbed substrates, for the purposes of geomorphic and ecological mapping
+* Check out the [repo](https://github.com/CameronBodine/PINGMapper) and [website](https://cameronbodine.github.io/PINGMapper/) for more info
+
+### SandSnap
+![](https://cirp.usace.army.mil/workunits/files/CitizenScience/SandsnapFinal.png)
+* collect beach grain size information using citizen scientists armed with their cell phone and any US coin
+* uses a Gym model to detect the coin, so a scaling for the image can be determined for accurate grain size measurements 
+* a [demo](https://huggingface.co/spaces/dbuscombe/SandSnap_CoinDetect) of that model is available
+* Check out the [data](https://sandsnap-erdcchl.hub.arcgis.com/) and [website](https://sandsnap-erdcchl.hub.arcgis.com/) for more info
 
 
 ## What is opinionated software?
