@@ -74,7 +74,7 @@ Packages are compatible, and share an underlying design and data structures
 * Check out the [repo](https://github.com/CameronBodine/PINGMapper) and [website](https://cameronbodine.github.io/PINGMapper/) for more info
 
 ### SandSnap
-![](https://cirp.usace.army.mil/workunits/files/CitizenScience/SandsnapFinal.png)
+![](https://www.arcgis.com/sharing/rest/content/items/f55871e51fcd4ae7a3a855e9f89a1f2a/resources/images/widget_585/1637174904533.png)
 * collect beach grain size information using citizen scientists armed with their cell phone and any US coin
 * uses a Gym model to detect the coin, so a scaling for the image can be determined for accurate grain size measurements 
 * a [demo](https://huggingface.co/spaces/dbuscombe/SandSnap_CoinDetect) of that model is available
